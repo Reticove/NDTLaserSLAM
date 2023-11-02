@@ -1,3 +1,2 @@
 # NDTLaserSLAMwithGraphOptimization
- 代码没优化，速度巨慢，仅用了激光的信息，NDT配准做前端，后端位姿图批量优化，并添加图的边
-地图更新也没写，就用的matlab的insertRay添加的，为了地图好看点还是个全SLAM，在线slam的效果8太行
+ 不好使的MATLAB的NDT
